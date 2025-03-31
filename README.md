@@ -12,3 +12,9 @@
 5. Install vim plug-plugins (:PlugInstall)
 
 6. Install nvim-lsconfig with Mason (:MasonInstallAll)
+
+------------------
+
+:Lazy sync
+:TSUpdate
+:MasonUpdate
